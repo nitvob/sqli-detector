@@ -1,0 +1,3 @@
+/venv
+*.png
+/finetuning-bert-with-triplet-contrastive-loss.ipynb
